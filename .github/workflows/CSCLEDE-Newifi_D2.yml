@@ -53,7 +53,7 @@ jobs:
         mkdir coolsong
         cd coolsong
         git clone https://github.com/tty228/luci-app-serverchan.git
-        git clone https://github.com/tzxiaozhen88/luci-app-koolproxyR.git
+        git clone https://github.com/project-openwrt/luci-app-koolproxyR.git
         git clone https://github.com/rufengsuixing/luci-app-adguardhome.git
         git clone https://github.com/happyzhang1995/openwrt-adguardhome.git
         git clone https://github.com/wubin2/luci-theme-argon-my.git
